@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\EthanNguyen\source\repos\DS-Assignment06\DS-Assignment06\main.c(18,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DS-Assignment06.vcxproj -> C:\Users\EthanNguyen\source\repos\DS-Assignment06\x64\Debug\DS-Assignment06.exe
