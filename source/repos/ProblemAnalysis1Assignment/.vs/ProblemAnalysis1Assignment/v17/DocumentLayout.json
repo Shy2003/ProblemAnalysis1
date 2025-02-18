@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|c:\\users\\ethannguyen\\source\\repos\\problemanalysis1assignment\\problemanalysis1assignment\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|solutionrelative:problemanalysis1assignment\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|c:\\users\\ethannguyen\\source\\repos\\problemanalysis1assignment\\problemanalysis1assignment\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|solutionrelative:problemanalysis1assignment\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|c:\\users\\ethannguyen\\source\\repos\\problemanalysis1assignment\\problemanalysis1assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|solutionrelative:problemanalysis1assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ProblemAnalysis1Assignment\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Models\\Student.cs",
+              "RelativeToolTip": "ProblemAnalysis1Assignment\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:24:33.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ProblemAnalysis1Assignment\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ProblemAnalysis1Assignment\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:24:17.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "ProblemAnalysis1Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Program.cs",
+              "RelativeToolTip": "ProblemAnalysis1Assignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:23:48.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
