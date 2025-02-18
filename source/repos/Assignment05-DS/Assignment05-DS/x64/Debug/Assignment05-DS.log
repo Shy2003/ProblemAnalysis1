@@ -1,4 +1,0 @@
-﻿  main.c
-C:\Users\EthanNguyen\source\repos\Assignment05-DS\Assignment05-DS\main.c(34,12): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 2 has type 'size_t'
-C:\Users\EthanNguyen\source\repos\Assignment05-DS\Assignment05-DS\main.c(34,12): message : consider using '%zu' in the format string
-  Assignment05-DS.vcxproj -> C:\Users\EthanNguyen\source\repos\Assignment05-DS\x64\Debug\Assignment05-DS.exe
