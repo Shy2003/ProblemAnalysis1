@@ -1,27 +1,29 @@
+﻿using Microsoft.EntityFrameworkCore;
+using ProblemAnalysis1Assignment.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// 1. Register the Database Context
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+// 2. Add MVC services
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment())
-{
-    app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-    app.UseHsts();
-}
-
-app.UseHttpsRedirection();
+// 3. Serve static files (from wwwroot)
 app.UseStaticFiles();
 
+// 4. Enable routing
 app.UseRouting();
 
 app.UseAuthorization();
 
+// 5. Map the default route
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Students}/{action=Index}/{id?}");
 
+// 6. Run the application
 app.Run();

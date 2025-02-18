@@ -1,8 +1,9 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 
-namespace StudentManagement.Models
+namespace ProblemAnalysis1Assignment.Models
 {
     public class Student
     {
@@ -40,5 +41,13 @@ namespace StudentManagement.Models
                 return "Unsatisfactory";
             }
         }
+
+        [Required]
+        [Display(Name = "Program")]
+        public string ProgramCode { get; set; }
+
+        [ForeignKey("ProgramCode")]
+        [ValidateNever] // Skip validation on the navigation property.
+        public ProgramOfStudy Program { get; set; }
     }
 }

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|c:\\users\\ethannguyen\\source\\repos\\problemanalysis1assignment\\problemanalysis1assignment\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|solutionrelative:problemanalysis1assignment\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|c:\\users\\ethannguyen\\source\\repos\\problemanalysis1assignment\\problemanalysis1assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|solutionrelative:problemanalysis1assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|c:\\users\\ethannguyen\\source\\repos\\problemanalysis1assignment\\problemanalysis1assignment\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|solutionrelative:problemanalysis1assignment\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +19,52 @@
       "RelativeMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|solutionrelative:problemanalysis1assignment\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|c:\\users\\ethannguyen\\source\\repos\\problemanalysis1assignment\\problemanalysis1assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|solutionrelative:problemanalysis1assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|c:\\users\\ethannguyen\\source\\repos\\problemanalysis1assignment\\problemanalysis1assignment\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|solutionrelative:problemanalysis1assignment\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|c:\\users\\ethannguyen\\source\\repos\\problemanalysis1assignment\\problemanalysis1assignment\\models\\programofstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|solutionrelative:problemanalysis1assignment\\models\\programofstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|c:\\users\\ethannguyen\\source\\repos\\problemanalysis1assignment\\problemanalysis1assignment\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|solutionrelative:problemanalysis1assignment\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|c:\\users\\ethannguyen\\source\\repos\\problemanalysis1assignment\\problemanalysis1assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|solutionrelative:problemanalysis1assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|c:\\users\\ethannguyen\\source\\repos\\problemanalysis1assignment\\problemanalysis1assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|solutionrelative:problemanalysis1assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|c:\\users\\ethannguyen\\source\\repos\\problemanalysis1assignment\\problemanalysis1assignment\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|solutionrelative:problemanalysis1assignment\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|c:\\users\\ethannguyen\\source\\repos\\problemanalysis1assignment\\problemanalysis1assignment\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|solutionrelative:problemanalysis1assignment\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|c:\\users\\ethannguyen\\source\\repos\\problemanalysis1assignment\\problemanalysis1assignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|solutionrelative:problemanalysis1assignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|c:\\users\\ethannguyen\\source\\repos\\problemanalysis1assignment\\problemanalysis1assignment\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|solutionrelative:problemanalysis1assignment\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|c:\\users\\ethannguyen\\source\\repos\\problemanalysis1assignment\\problemanalysis1assignment\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|solutionrelative:problemanalysis1assignment\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Migrations\\20250218214859_MyNewMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProblemAnalysis1Assignment\\Migrations\\20250218214859_MyNewMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|c:\\users\\ethannguyen\\source\\repos\\problemanalysis1assignment\\problemanalysis1assignment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25B9646A-9DA8-4ABB-A3C0-48AC5EE07C87}|ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment.csproj|solutionrelative:problemanalysis1assignment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,32 +122,50 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Models\\Student.cs",
               "RelativeDocumentMoniker": "ProblemAnalysis1Assignment\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Models\\Student.cs",
               "RelativeToolTip": "ProblemAnalysis1Assignment\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAA9wCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T20:24:33.536Z",
+              "WhenOpened": "2025-02-18T21:33:34.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Data\\DBContext.cs",
+              "RelativeDocumentMoniker": "ProblemAnalysis1Assignment\\Data\\DBContext.cs",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Data\\DBContext.cs",
+              "RelativeToolTip": "ProblemAnalysis1Assignment\\Data\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:33:47.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgramOfStudy.cs",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Models\\ProgramOfStudy.cs",
+              "RelativeDocumentMoniker": "ProblemAnalysis1Assignment\\Models\\ProgramOfStudy.cs",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Models\\ProgramOfStudy.cs",
+              "RelativeToolTip": "ProblemAnalysis1Assignment\\Models\\ProgramOfStudy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:33:18.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ProblemAnalysis1Assignment\\Models\\ErrorViewModel.cs",
@@ -103,20 +173,167 @@
               "RelativeToolTip": "ProblemAnalysis1Assignment\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T20:24:17.31Z",
+              "WhenOpened": "2025-02-18T21:56:23.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Program.cs",
               "RelativeDocumentMoniker": "ProblemAnalysis1Assignment\\Program.cs",
               "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Program.cs",
               "RelativeToolTip": "ProblemAnalysis1Assignment\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T20:23:48.136Z",
+              "WhenOpened": "2025-02-18T21:29:09.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "ProblemAnalysis1Assignment\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "ProblemAnalysis1Assignment\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv0IAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:30:49.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProblemAnalysis1Assignment\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ProblemAnalysis1Assignment\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAYwHAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:08:49.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProblemAnalysis1Assignment\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProblemAnalysis1Assignment\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:52:55.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProblemAnalysis1Assignment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProblemAnalysis1Assignment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T22:11:11.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProblemAnalysis1Assignment\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "ProblemAnalysis1Assignment\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T21:36:35.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProblemAnalysis1Assignment\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "ProblemAnalysis1Assignment\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T21:44:22.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProblemAnalysis1Assignment\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProblemAnalysis1Assignment\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T21:57:40.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ProblemAnalysis1Assignment\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ProblemAnalysis1Assignment\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T21:57:39.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProblemAnalysis1Assignment\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "ProblemAnalysis1Assignment\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T21:36:55.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250218214859_MyNewMigration.cs",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Migrations\\20250218214859_MyNewMigration.cs",
+              "RelativeDocumentMoniker": "ProblemAnalysis1Assignment\\Migrations\\20250218214859_MyNewMigration.cs",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Migrations\\20250218214859_MyNewMigration.cs",
+              "RelativeToolTip": "ProblemAnalysis1Assignment\\Migrations\\20250218214859_MyNewMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:48:59.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProblemAnalysis1Assignment\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ProblemAnalysis1Assignment\\ProblemAnalysis1Assignment\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProblemAnalysis1Assignment\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T21:26:56.731Z",
               "EditorCaption": ""
             }
           ]
